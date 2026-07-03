@@ -91,7 +91,7 @@ svg {
   background: #17352f;
   font-size: 13px;
   font-weight: 700;
-  letter-spacing: .015em;
+  letter-spacing: 0;
   text-align: center;
 }
 
@@ -179,7 +179,7 @@ svg {
   border-radius: 7px;
   font-size: 14px;
   font-weight: 800;
-  letter-spacing: .01em;
+  letter-spacing: 0;
   text-transform: none;
   white-space: nowrap;
   transition: transform .2s ease, box-shadow .2s ease, background .2s ease, border-color .2s ease;
@@ -238,7 +238,7 @@ section {
   color: var(--teal);
   font-size: 12px;
   font-weight: 680;
-  letter-spacing: .035em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -254,14 +254,14 @@ h1 {
   margin-bottom: 24px;
   font-size: clamp(50px, 6vw, 84px);
   line-height: .98;
-  letter-spacing: -.02em;
+  letter-spacing: 0;
 }
 
 h2 {
   margin-bottom: 22px;
   font-size: clamp(36px, 4.2vw, 58px);
   line-height: 1.02;
-  letter-spacing: -.018em;
+  letter-spacing: 0;
 }
 
 h3 {
@@ -381,7 +381,7 @@ h3 {
   color: var(--teal);
   font-size: 11px;
   font-weight: 850;
-  letter-spacing: .09em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -475,7 +475,7 @@ h3 {
   color: #f8d689;
   font-size: 10px;
   font-weight: 950;
-  letter-spacing: .12em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -529,7 +529,7 @@ h3 {
   opacity: .8;
   font-size: 12px;
   font-weight: 850;
-  letter-spacing: .08em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -959,7 +959,7 @@ h3 {
   background: transparent;
   font-size: 12px;
   font-weight: 850;
-  letter-spacing: .08em;
+  letter-spacing: 0;
 }
 
 .highlight-card h3 {
@@ -1077,7 +1077,7 @@ h3 {
   color: rgba(255, 255, 255, .7);
   font-size: 12px;
   font-weight: 850;
-  letter-spacing: .09em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -1114,7 +1114,7 @@ h3 {
   color: #7b6b55;
   font-size: 11px;
   font-weight: 820;
-  letter-spacing: .04em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -1185,7 +1185,7 @@ h3 {
   color: rgba(255, 255, 255, .72);
   font-size: 12px;
   font-weight: 800;
-  letter-spacing: .03em;
+  letter-spacing: 0;
   font-variant-numeric: tabular-nums;
 }
 
@@ -1235,7 +1235,7 @@ h3 {
   background: var(--gold);
   font-size: 12px;
   font-weight: 850;
-  letter-spacing: .075em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -1339,7 +1339,7 @@ footer p {
   background: rgba(4, 124, 137, .12);
   font-size: 12px;
   font-weight: 850;
-  letter-spacing: .09em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -1374,7 +1374,7 @@ footer p {
   color: var(--teal);
   font-size: 15px;
   font-weight: 850;
-  letter-spacing: .075em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
