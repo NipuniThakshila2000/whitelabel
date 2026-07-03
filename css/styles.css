@@ -1724,6 +1724,54 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  .spotlight-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .spotlight h2 {
+    font-size: clamp(34px, 8.5vw, 42px);
+    line-height: 1;
+  }
+
+  .visual-panel {
+    padding: 18px;
+  }
+
+  .quote-card {
+    padding: 16px 16px 18px;
+  }
+
+  .quote-card p {
+    font-size: 17px;
+  }
+
+  .source-list {
+    gap: 10px;
+    margin-top: 14px;
+  }
+
+  .source-item {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 6px;
+    padding: 12px;
+  }
+
+  .source-item > span:last-child {
+    margin-left: 0;
+    align-self: flex-end;
+  }
+
+  .guardrail {
+    margin-top: 22px;
+    padding: 18px 18px 18px 16px;
+  }
+
+  .guardrail h3 {
+    font-size: 22px;
+  }
+
   .split-dark h2 {
     font-size: clamp(34px, 9vw, 40px);
     line-height: 1.02;
@@ -1947,13 +1995,8 @@ footer {
     font-size: 16px;
   }
 
-  .source-item {
-    align-items: flex-start;
-    flex-direction: column;
-  }
-
-  .source-item > span:last-child {
-    margin-left: auto;
+  .visual-panel {
+    padding: 16px;
   }
 
   .results-grid div {
