@@ -1227,10 +1227,6 @@ h3 {
   border-color: rgba(255, 255, 255, .18);
 }
 
-.highlight-card-primary .card-video {
-  aspect-ratio: 16 / 11;
-}
-
 .highlight-card-primary .highlight-tags span {
   border-color: rgba(255, 255, 255, .12);
 }
