@@ -1154,7 +1154,7 @@ h3 {
 }
 
 .highlight-card .card-video {
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 3 / 4;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, .16);
   border-radius: 14px;
@@ -1818,7 +1818,7 @@ footer {
   }
 
   .highlight-card .card-video {
-    aspect-ratio: 4 / 5;
+    aspect-ratio: 3 / 4;
   }
 
   .phone-stage {
